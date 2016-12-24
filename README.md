@@ -4,7 +4,7 @@
 [![Linux](https://img.shields.io/badge/os-linux-green.svg?style=flat)]()
 [![Twitter: @omnijar](https://img.shields.io/badge/contact-@omnijar-blue.svg?style=flat)](https://twitter.com/omnijarcoffee)
 
-**Nakamti** (Oromo: Naqamtee; also called Nekemt,[1] ) is a market town and separate 
+**Nakamti** (Oromo: Naqamtee; also called Nekemt) is a market town and separate 
 woreda in western Ethiopia.
 
 It's also a coffee discovery service, utilizing REST and GraphQL to provide 
