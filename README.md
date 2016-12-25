@@ -17,7 +17,7 @@ This is the 4th generation of this service.
 
  - The first was written in Java 8 in 2011 / 2012.
  - The second was written in Node.js / JavaScript in 2012 / 2013.
- - The third was written in a mixture of Go and Python.
+ - The third was written in a mixture of Go and Python (utilizing TensorFlow) in 2013 - 2015.
   
 The active repository for the latest iteration is housed privately 
 with a significant delay between the private development efforts
